@@ -1,6 +1,6 @@
 # 555-Timer-Voltage-Multiplier-Sponsored-by-JLCPCB
 
-Thank you JLCPCB for sponsoring this project. Please order your PCB at jlcpcb.com/RAT
+Thank you JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT
 
 This project is about using NE555 timer as an alternating current AC signal as an input to the capacitors and diodes. The capacitors and diodes produce a high voltage direct current output.
 
@@ -36,4 +36,4 @@ At the final stage, we will get less than and around 14V * 16 = 224V.
 
 Please handle the high voltages with care. Avoid touching any conductive leads with bare hands.
 
-Hope you enjoy this project, and do order your PCB at jlcpcb.com/RAT
+Hope you enjoy this project, and do order your PCB at https://jlcpcb.com/RAT
