@@ -2,6 +2,34 @@
 
 Thank you JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT
 
+Hardware components
+
+JLCPCB Customized PCB ×	1	
+
+mt3608 DC-DC step up connverter ×	1	
+
+ne555 timer ×	1	
+
+ic socket 8 pins ×	1	
+
+25v 10uF electrolytic capacitor ×	16	
+
+Male Header 40 Position 1 Row (0.1") ×	2	
+
+Male Header 80 Position 2 Row (0.1") ×	1	
+
+1N4007 – High Voltage, High Current Rated Diode ×	16	
+
+Capacitor 10 nF ×	2	
+
+0.25w 1k ohm resistor ×	1
+
+Hand tools and fabrication machines
+
+Soldering iron (generic)
+
+Solder Wire, Lead Free
+
 This project is about using NE555 timer as an alternating current AC signal as an input to the capacitors and diodes. The capacitors and diodes produce a high voltage direct current output.
 
 Let's get started.
