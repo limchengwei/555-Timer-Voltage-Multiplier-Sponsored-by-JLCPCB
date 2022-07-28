@@ -1,5 +1,7 @@
 # 555-Timer-Voltage-Multiplier-Sponsored-by-JLCPCB
 
+![image](https://user-images.githubusercontent.com/85741357/181515018-a9f4f3e3-6e93-4bed-b1fc-299f3b9aee04.png)
+
 Thank you JLCPCB for sponsoring this project. Please order your PCB at https://jlcpcb.com/RAT
 
 Hardware components
